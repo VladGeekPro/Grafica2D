@@ -1,0 +1,8 @@
+Company          Profit per month
+BlueMouse        175
+OrangeCream      90
+AquaFresh        210
+InnovateCorp     130
+QuantumIndust    250
+TechSolutions    237
+GlobalVentures   110
